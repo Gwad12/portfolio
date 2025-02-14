@@ -6,7 +6,7 @@ This is a personal portfolio website showcasing my skills, projects, and contact
 ---
 
 ## 🖼️ Live Demo  
-🔗 [https://gwad12.github.io/portfolio/](#) (Replace with actual URL)  
+🔗 [Visite My Portfoli](#) (https://gwad12.github.io/portfolio/)  
 
 ---
 
